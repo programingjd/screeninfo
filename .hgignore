@@ -1,0 +1,9 @@
+syntax: glob
+.idea
+out
+gen
+obj
+libs
+*.class
+*.apk
+local.properties

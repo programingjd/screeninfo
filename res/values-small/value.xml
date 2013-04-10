@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="size">Small</string>
+  <dimen name="font_size1">14dip</dimen>
+  <dimen name="font_size2">18dip</dimen>
+</resources>

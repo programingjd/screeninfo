@@ -1,0 +1,67 @@
+
+Galaxy Nexus
+------------
+xhdpi normal
+px: 720 * 1184
+    720 * 1196
+dp: 360 * 592
+    360 * 598
+
+
+Nexus 4
+-------
+xhdpi normal
+px: 768 * 1184
+    768 * 1196
+dp: 384 * 592
+    384 * 598
+
+
+Nexus 7
+-------
+hdpi large
+px: 800 * 1216
+    738 * 961
+dp: 600 * 913
+    552 * 961
+
+Nexus 10
+--------
+xhdpi x-large
+px: 1504 * 2560
+dp: 752 * 1280
+
+
+Kindle Fire HD 8.9
+------------------
+hdpi x-large
+px: 1200 * 1920
+dp:  800 * 1280
+
+
+Kindle Fire HD 7
+----------------
+hdpi large
+px: 800 * 1280
+dp: 533 * 853
+
+
+Kindle Fire
+-----------
+mdpi x-large
+px: 600 * 1024
+dp: 600 * 1024
+
+
+Kindle Fire 2
+-------------
+mdpi large
+px: 600 * 1024
+dp: 600 * 1024
+
+
+Galaxy Tab 10.1
+---------------
+mdpi x-large
+px: 752 * 1238
+dp: 752 * 1238

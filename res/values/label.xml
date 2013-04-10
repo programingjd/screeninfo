@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Screen Info</string>
+  <string name="density_format">Density: {0,number}</string>
+  <string name="width_format">Width: {0,number,integer}px {1,number,integer}dip</string>
+  <string name="height_format">Height: {0,number,integer}px {1,number,integer}dip</string>
+</resources>

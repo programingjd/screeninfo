@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="size">Large</string>
+  <dimen name="font_size1">20dip</dimen>
+  <dimen name="font_size2">28dip</dimen>
+</resources>

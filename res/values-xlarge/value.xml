@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="size">X-Large</string>
+  <dimen name="font_size1">24dip</dimen>
+  <dimen name="font_size2">32dip</dimen>
+</resources>
